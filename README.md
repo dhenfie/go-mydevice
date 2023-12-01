@@ -1,4 +1,4 @@
-## My Device
+## Mydevice
 Menampilkan informasi tentang perangkat via CLI di **linux**.
 
 ### Usage
@@ -22,3 +22,5 @@ tampilkan memory
 ```bash
 ./mydevice -d=memory
 ```
+
+> Repo ini adalah hasil pratek belajar Go, jadi mungkin tidak sempurna
